@@ -113,7 +113,7 @@
         "turbo": "^2.1.0",
         "typescript": "^6.0.0",
         "typescript-eslint": "8.46.4",
-        "vitest": "^4.0.16",
+        "vitest": "^5.0.1",
         "zod": "^4.0.0"
     },
     "lint-staged": {
